@@ -4,6 +4,7 @@ A sleek and responsive weather application that displays the **current temperatu
 
 ---
 
+
 ## 🔍 Features
 
 - 🌆 **Search Weather by City** – Instantly fetch weather details for any city
@@ -11,6 +12,10 @@ A sleek and responsive weather application that displays the **current temperatu
 - 💧 **Humidity Info** – See the current humidity levels
 - ⚡ **Fast & Responsive** – Optimized for all devices
 - 🎨 **Styled with Tailwind CSS** – Minimalist and modern UI
+
+## 🔗 Live Demo
+
+> 🌍 **Check it out live here**: [View Live App](https://climate-tracker-liart.vercel.app/)
 
 ---
 
